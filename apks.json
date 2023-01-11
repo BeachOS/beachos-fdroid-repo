@@ -1,0 +1,122 @@
+[
+  {
+    "name": "AuroraStore",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "com.aurora.store",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "Briar",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "org.briarproject.briar.android",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "BeachVPN",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "org.beachinstitute.vpn",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "DAVx5",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "at.bitfire.davdroid",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "GeometricWeather",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "wangdaye.com.geometricweather",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "K-9Mail",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "com.fsck.k9",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "MuPDFviewer",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "com.artifex.mupdf.viewer.app",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "Nextcloud",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "com.nextcloud.client",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "OONIProbe",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "org.openobservatory.ooniprobe",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "OrganicMaps",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "app.organicmaps",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "RiseupVPN",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "se.leap.riseupvpn",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "ScrambledExif",
+    "baseUrl": "https://f-droid.org/repo/{ver}",
+    "version": {
+      "fdroid": "com.jarsilio.android.scrambledeggsif",
+      "fingerprint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB"
+    }
+  },
+  {
+    "name": "Signal",
+    "baseUrl": "https://updates.signal.org/android/Signal-Android-website-prod-universal-release-{ver}.apk",
+    "version": {
+      "url": "https://updates.signal.org/android/latest.json",
+      "json": "versionName"
+    }
+  },
+  {
+    "name": "Orbot",
+    "baseUrl": "https://guardianproject.info/fdroid/repo/{ver}",
+    "version": {
+      "fdroid": "org.torproject.android",
+      "fingerprint": "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135"
+    }
+  },
+  {
+    "name": "TorBrowser",
+    "baseUrl": "https://guardianproject.info/fdroid/repo/{ver}",
+    "version": {
+      "fdroid": "org.torproject.torbrowser",
+      "fingerprint": "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135"
+    }
+  }
+]

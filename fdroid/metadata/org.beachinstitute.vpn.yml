@@ -1,0 +1,27 @@
+Categories:
+  - Internet
+  - Security
+  - Default
+License: GPL-3.0-only
+WebSite: https://beach.net
+SourceCode: https://gitlab.com/beachos/bitmask_android
+IssueTracker: https://gitlab.com/beachos/bitmask_android/issues
+Translation: https://www.transifex.com/otf/bitmask-android/
+Changelog: https://gitlab.com/beachos/bitmask_android/blob/HEAD/CHANGELOG
+Donate: https://beachinstitute.org/
+Bitcoin: 14wntQ8cBdnhUVfYmDjXz6PbpSSX8nCtkr
+
+AutoName: BeachVPN
+Description: |-
+    BeachVPN is an application to provide easy and secure encrypted communication.
+    The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is
+    preconfigured with one trusted provider—The Beach Institute—and allows
+    anonymous VPN usage without any manual setup.
+
+    By encrypting and securely routing all your network traffic through Beach's
+    servers, BeachVPN is able to prevent many forms of censorship and surveillance.
+
+RepoType: git
+Repo: https://gitlab.com/beachos/bitmask_android.git
+
+AllowedAPKSigningKeys: 236f6827a5bee2b1b7e5215b1c7722e67280ffa2a88722b0ee64614d38737276

@@ -1,0 +1,29 @@
+Categories:
+  - Internet
+  - Security
+  - Default
+License: GPL-3.0-only
+AuthorName: LEAP
+AuthorWebSite: https://leap.se/
+WebSite: https://riseup.net/
+SourceCode: https://0xacab.org/leap/bitmask_android
+IssueTracker: https://0xacab.org/leap/bitmask_android/issues
+Translation: https://www.transifex.com/projects/p/bitmask-android
+Changelog: https://0xacab.org/leap/bitmask_android/blob/HEAD/CHANGELOG
+Donate: https://riseup.net/vpn/donate
+Bitcoin: 1F3KowUJBfvocr1H6DRvwFxfETJ18e8Dp6
+
+AutoName: RiseupVPN
+Description: |-
+    RiseupVPN is an application to provide easy and secure encrypted communication.
+    The app is a custom branded build of https://f-droid.org/packages/se.leap.bitmaskclient. This version is
+    preconfigured with one trusted provider—the Riseup collective—and allows
+    anonymous VPN usage without any manual setup.
+
+    By encrypting and securely routing all your network traffic through Riseup’s
+    servers, RiseupVPN is able to prevent many forms of censorship and surveillance.
+
+RepoType: git
+Repo: https://0xacab.org/leap/bitmask_android.git
+
+AllowedAPKSigningKeys: cd592617b27a65cd44e24fb7b8bc5d13d140fc790c37339eef4abb4518dd3ac2
